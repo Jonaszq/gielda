@@ -1,0 +1,22 @@
+{
+  "market": "usa",
+  "asOf": "2026-10-06T16:15:00-04:00",
+  "delayedMinutes": 15,
+  "index": { "symbol": "S&P 500", "changePct": -0.4 },
+  "gainers": [
+    { "symbol": "AMD", "name": "Advanced Micro Devices Inc.", "price": 187.32, "changePct": 7.4, "turnover": 9840000000 },
+    { "symbol": "TSLA", "name": "Tesla Inc.", "price": 268.9, "changePct": 4.1, "turnover": 21300000000 },
+    { "symbol": "NFLX", "name": "Netflix Inc.", "price": 1142.5, "changePct": 3.2, "turnover": 3910000000 },
+    { "symbol": "AVGO", "name": "Broadcom Inc.", "price": 214.66, "changePct": 2.6, "turnover": 6120000000 },
+    { "symbol": "JPM", "name": "JPMorgan Chase & Co.", "price": 291.04, "changePct": 1.9, "turnover": 2470000000 }
+  ],
+  "losers": [
+    { "symbol": "UNH", "name": "UnitedHealth Group Inc.", "price": 412.18, "changePct": -6.3, "turnover": 5280000000 },
+    { "symbol": "NKE", "name": "Nike Inc.", "price": 71.45, "changePct": -4.7, "turnover": 1960000000 },
+    { "symbol": "BA", "name": "The Boeing Company", "price": 168.22, "changePct": -3.5, "turnover": 2340000000 },
+    { "symbol": "INTC", "name": "Intel Corporation", "price": 23.8, "changePct": -2.9, "turnover": 1730000000 },
+    { "symbol": "XOM", "name": "Exxon Mobil Corporation", "price": 109.67, "changePct": -2.2, "turnover": 2080000000 }
+  ],
+  "summary": "S&P 500 spadł o 0,4% mimo mocnych półprzewodników – AMD zyskało 7,4% po nowym kontrakcie na chipy AI. Indeks ciągnęła w dół ochrona zdrowia: UnitedHealth stracił 6,3% po obniżeniu prognoz.",
+  "summarySource": "llm"
+}

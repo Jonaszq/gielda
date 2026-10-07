@@ -1,0 +1,22 @@
+{
+  "market": "gpw",
+  "asOf": "2026-10-07T17:05:00+02:00",
+  "delayedMinutes": 15,
+  "index": { "symbol": "WIG20", "changePct": 0.8 },
+  "gainers": [
+    { "symbol": "CDR", "name": "CD Projekt SA", "price": 312.4, "changePct": 6.8, "turnover": 186400000 },
+    { "symbol": "ALE", "name": "Allegro.eu SA", "price": 34.12, "changePct": 4.9, "turnover": 142700000 },
+    { "symbol": "KGH", "name": "KGHM Polska Miedź SA", "price": 168.5, "changePct": 3.7, "turnover": 121300000 },
+    { "symbol": "DNP", "name": "Dino Polska SA", "price": 412.0, "changePct": 3.1, "turnover": 88900000 },
+    { "symbol": "LPP", "name": "LPP SA", "price": 16450.0, "changePct": 2.4, "turnover": 74200000 }
+  ],
+  "losers": [
+    { "symbol": "PCO", "name": "Pepco Group NV", "price": 18.92, "changePct": -5.6, "turnover": 39800000 },
+    { "symbol": "JSW", "name": "Jastrzębska Spółka Węglowa SA", "price": 24.36, "changePct": -4.8, "turnover": 52100000 },
+    { "symbol": "CCC", "name": "CCC SA", "price": 182.1, "changePct": -3.9, "turnover": 61400000 },
+    { "symbol": "KTY", "name": "Grupa Kęty SA", "price": 830.0, "changePct": -2.7, "turnover": 18700000 },
+    { "symbol": "PGE", "name": "PGE Polska Grupa Energetyczna SA", "price": 9.84, "changePct": -2.1, "turnover": 96300000 }
+  ],
+  "summary": "WIG20 zyskał 0,8% przy wysokich obrotach. Sesję ciągnęło CD Projekt (+6,8%) po zapowiedzi premiery, a KGHM korzystał z drożejącej miedzi. Pod presją był handel detaliczny – Pepco i CCC traciły kilka procent.",
+  "summarySource": "llm"
+}
